@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "*.css": "css",
+        "*.js": "javascript",
+        "iostream": "cpp",
+        "xstring": "cpp",
+        "ios": "cpp",
+        "system_error": "cpp",
+        "xiosbase": "cpp"
+    }
+}
